@@ -1,114 +1,163 @@
-<!-- ===================== PREMIUM HEADER ===================== -->
+# <div align="center">⚡ JAMSHAID GHAFOOR ⚡</div>
+
+<div align="center">
+
+### 🚀 Full-Stack Software Developer | React Native Specialist | MERN Stack Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Building+Scalable+Digital+Products;React+Native+%7C+MERN+Stack+%7C+TypeScript;Transforming+Ideas+Into+Production+Applications;Clean+Code+%7C+Performance+%7C+Innovation" />
+
+<br/>
+
+<a href="https://personal-portfolio-omega-two-96.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Live_Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+<a href="https://github.com/jamshaid-0206">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:jamshedghafoor174@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🧑‍💻 About Me
+
+```yaml
+Name: Jamshaid Ghafoor
+Role: Full-Stack Software Developer
+Location: Islamabad, Pakistan
+
+Specialization:
+  - React Native
+  - React.js
+  - TypeScript
+  - Node.js
+  - Express.js
+  - MongoDB
+  - Firebase
+
+Focus:
+  - Mobile Applications
+  - Web Platforms
+  - SaaS Products
+  - API Development
+  - Scalable Architectures
+```
+
+I build modern, scalable web and mobile applications with a strong focus on performance, maintainability, and exceptional user experiences.
+
+Currently developing production-ready solutions using React Native, MERN Stack, Firebase, and modern frontend technologies.
+
+---
+
+# 🌐 Portfolio
+
+### 🚀 Live Website
+
+https://personal-portfolio-omega-two-96.vercel.app
+
+### Featured Projects
+
+🏠 HostelMate
+
+AI-powered hostel management platform featuring room allocation, student management, authentication, and real-time synchronization.
+
+🤖 Readability Pro
+
+AI-driven writing assistant focused on content optimization, readability analysis, and productivity enhancement.
+
+⚙️ MERN API Platform
+
+Scalable backend ecosystem featuring authentication, analytics, API integrations, and database optimization.
+
+🌍 Client Web Platforms
+
+Production-grade business websites with responsive UI, SEO optimization, and modern user experiences.
+
+---
+
+# ⚡ Tech Arsenal
+
+### Frontend
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=240&section=header&text=Jamshaid%20Ghafoor&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,vite,redux"/>
 </p>
 
-<!-- ===================== EYE-CATCHING TYPING ===================== -->
+### Backend
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&pause=1000&color=E100FF&center=true&vCenter=true&width=900&lines=Professional+Android+App+Developer;React+Native+Specialist;JavaScript+%7C+Express.js+%7C+MongoDB;Clean+Code+%7C+Scalable+Apps+%7C+Client+Focused"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
+</p>
+
+### Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
 </p>
 
 ---
 
-## 👋 About Me
+# 📊 GitHub Analytics
 
-<p align="right">
-  <img width="150" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif"/>
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jamshaid-0206&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jamshaid-0206&theme=tokyonight&hide_border=true"/>
 </p>
 
-Hi, I’m **Jamshaid Ghafoor**, a **Professional Android App Developer** specializing in **React Native** with solid backend experience using **Express.js & MongoDB**.
-
-I help **clients, startups, and businesses** build **fast, secure, and scalable mobile applications** with a strong focus on **performance, UI/UX, and long-term maintainability**.
-
----
-
-## 💼 Services I Provide
-
-- 📱 Android App Development (React Native)
-- 🔄 Cross-Platform Mobile Applications
-- 🌐 REST API & Backend Development
-- 🔐 Authentication & Firebase Integration
-- 🎨 UI / UX Implementation
-- ⚡ App Optimization & Bug Fixing
-- 🔧 Ongoing Support & Maintenance
-
----
-
-## 🛠️ Tech Stack
-
-### 📱 Mobile Development
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="44"/>
-</p>
-
-### 🌐 Backend & Database
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="44"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="44"/>
-</p>
-
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="44"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="44"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="44"/>
+<p align="center">
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamshaid-0206&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🏆 Achievements
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jamshaid-0206&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=1800"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=jamshaid-0206&theme=midnight-purple&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamshaid-0206&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=1800"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jamshaid-0206&theme=matrix&no-frame=true&column=7"/>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jamshaid-0206&theme=darkhub&no-frame=true&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jamshaid-0206&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Contribution Activity
+# 🤝 Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamshaid-0206&bg_color=0d0d0d&color=E100FF&line=7F00FF&point=ffffff&hide_border=true"/>
-</p>
+<div align="center">
+
+### 🌐 Portfolio
+
+https://personal-portfolio-omega-two-96.vercel.app
+
+### 💻 GitHub
+
+https://github.com/jamshaid-0206
+
+### 📧 Email
+
+[jamshedghafoor174@gmail.com](mailto:jamshedghafoor174@gmail.com)
+
+### 📍 Islamabad, Pakistan
+
+</div>
 
 ---
 
-## 🤝 Hire Me
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/jamshaid-0206">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-7F00FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:jamshedghafoor174@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-E100FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## 🚀 "Building software that solves real problems."
 
----
+⭐ If you like my work, consider following my journey and checking out my projects.
 
-## 👁️ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jamshaid-0206&label=PROFILE+VIEWS&color=7F00FF&style=flat"/>
-</p>
-
-<!-- ===================== PREMIUM FOOTER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:7F00FF&height=120&section=footer"/>
-</p>
+</div>
